@@ -1,4 +1,4 @@
-# X) Summaries 
+# X) Summaries
 
 - According to Schneier (2015), the cryptography protocol basics encompass addresses secrecy and trust issues. Thus, protocols show the necessary steps that involve
 multiple parties to achieve a task. The characteristics must include the need for prior knowledge and agreement by all parties.
