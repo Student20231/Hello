@@ -10,11 +10,11 @@ costs, delays, and potential bottleneck issues in large-scale implementations.
 - Encoded Passwords and Hashcat: passwords are held as unidirectional hashes which cannot be reversed. Hashcat is a tool to decrypt such ashes using dictionary-based
  attacks; there`s a demonstration of the process that employs Hashcat through a dictionary attack sourced from the RockYou word list; the article also shows methods
  recognizing hash types and breaking down the cracking command`s elements, displaying the rate of decryption and proposing improvements such as using the host OS and
- real hardware for better performance (Torvinen, 2022).
+ real hardware for better performance (Karvinen, 2022).
 
 - The command line navigation provides essential commands for file management, directory navigation and secure remote operations via SSH. The file manipulation and
 system administration covers crucial file handling commands. While software management demonstrates apt-get usage for secure package installation and system updates,
-ensuring software security (Torvinen, 2020).
+ensuring software security (Karvinen, 2020).
 
 - Frow the videos about Hacking user credentials (Santos et al 2017), I splitted the summary in 4 main components:
  •	storage security measures: OS systems by themselves can represent a robust barrier against hackers. However, it is recommended that organizations restrict access
@@ -39,7 +39,7 @@ URL: https://learning.oreilly.com/videos/security-penetration-testing/9780134833
 Schneier, B., 2015. Applied cryptography protocols, algorithms and source code in C, 20th Anniversary Edition. 
 URL: https://learning.oreilly.com/library/view/applied-cryptography-protocols/9781119096726/10_chap02.html#chap02-sec003
 
-Torvinen 2022. Cracking passwords with Hashcat. URL: https://terokarvinen.com/2022/cracking-passwords-with-hashcat/
+Karvinen 2022. Cracking passwords with Hashcat. URL: https://terokarvinen.com/2022/cracking-passwords-with-hashcat/
 
-Torvinen 2020. Command Line Basics Revisited. URL: https://terokarvinen.com/2020/command-line-basics-revisited/
+Karvinen 2020. Command Line Basics Revisited. URL: https://terokarvinen.com/2020/command-line-basics-revisited/
 
