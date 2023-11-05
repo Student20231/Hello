@@ -49,11 +49,45 @@ Diagram representation:
 
 <img width="438" alt="Diagram analysis" src="https://github.com/Student20231/Hello/assets/149126670/bae1e9e2-594c-4f89-9d5d-b55313e0d4d8">
 
+# b) Incident case analysis - Canada`s Military and Parliament websites (I`ve done it before)
+There is a list online about cyberattacks since 2006 (CSIS, 2023) that I consider credible and detailed enough to proceed to a Cyber Kill Chain analysis (CSIS, 2023).
 
+Procedure:
+Reconnaissance: Perhaps the hacktivists identified vulnerabilities in those websites that were susceptible to DDoS attacks;
+Weaponization: Then, they developed or obtained the necessary tools or technique to carry out the DDoS attack;
+Delivery: Execution of the attack to overwhelm the websites` servers;
+Exploitation: Exploitation of vulnerabilities in network resources;
+Installation: maybe there was no installation but rather an ongoing attack;
+Command and control: The attackers could have monitor the impact and adjust the attack strategy to sustain or amplify the assault;
+Actions on objectives: To disrupt the Canadian Military and Parliament websites.
 
+# c) Starting a lab. Installation of Debian on Virtualbox.
+
+I forgot to report the environment  while I was installing it. Therefore I went to the terminal to collect the following information:
+
+- System Information:
+  System details - Linux pedro-virtualbox 6.1.0-13-amd64 #1 SMP PRREMPT_DYNAMIC Debian 6.1.55-1 (2023-09-29) x86_64 GNU/Linux
+  Debian version - 12.2
+  
+- History:
+  History - 1. sudo apt-get update
+            2. sudo apt-get update
+            3. sudo apt-get -y dist-upgrade
+            4. sudo apt-get -y installv ufw
+            5. sudo ufw enable
+            6. sudo reboot
+            7. cd /media/*/VBox*
+            8. ls
+            9. sudo bash VBoxLinuxAdditions.run
+           10. sudo reboot
+           11. uname -a
+           12. cat /etc/debian_version
+           13. history
 
 
 ## References 
+
+CSIS, 2023. Significant Cyber Incidents. URL: https://www.csis.org/programs/strategic-technologies-program/significant-cyber-incidents.
 
 Hutchins et al, 2011. Intelligence-Driven Computer Network Defense Informed by Analysis of Adversary Campaigns and Intrusion Kill Chains. 
 URL: https://lockheedmartin.com/content/dam/lockheed-martin/rms/documents/cyber/LM-White-Paper-Intel-Driven-Defense.pdf
