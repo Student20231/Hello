@@ -70,7 +70,7 @@ I forgot to report the environment  while I was installing it. Therefore I went 
   Debian version - 12.2
   
 - History:
-  1. sudo apt-get update
+            1. sudo apt-get update
             2. sudo apt-get update
             3. sudo apt-get -y dist-upgrade
             4. sudo apt-get -y installv ufw
