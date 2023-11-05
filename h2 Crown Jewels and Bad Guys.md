@@ -84,6 +84,10 @@ I forgot to report the environment  while I was installing it. Therefore I went 
            12. cat /etc/debian_version
            13. history
 
+<img width="716" alt="Oracle VirtualBox Manager 1" src="https://github.com/Student20231/Hello/assets/149126670/afcbf978-9b34-487c-af2d-a16fc68295bf">
+
+<img width="512" alt="Oracle VirtualBox Manager 2" src="https://github.com/Student20231/Hello/assets/149126670/95234e04-b1c5-47c9-a7f0-c3b7efe9b538">
+
 
 ## References 
 
