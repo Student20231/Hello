@@ -47,6 +47,7 @@ Theat modeling:
 
 ![Alt text](Hello/Diagram analysis.png)
 
+<img width="438" alt="Diagram analysis" src="https://github.com/Student20231/Hello/assets/149126670/bae1e9e2-594c-4f89-9d5d-b55313e0d4d8">
 
 
 
