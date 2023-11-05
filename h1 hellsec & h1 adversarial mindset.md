@@ -17,7 +17,7 @@ once. Then, it started to reject to tell me anything else.
 Gandalf for me is just a challenge but to pass that challenge, it isn`t physical but information-based instead. In order to pass the level 3, probably I would have to research
 vocabulary related with the hints provided. 
 
-# 4. h1 Adversarial mindset
+# 2022 4. h1 Adversarial mindset 
 
 - The text written by Hutchins et al (2011) shows that intelligence-driven security focuses on combatting advanced persistent threats by using a structured intrusion kill 
 chain model; it also shows the phases of the intrusion kill chain; throught the lockheed martin incident response case study, we can understand that even utilizing zero-day 
