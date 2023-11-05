@@ -20,7 +20,7 @@ vocabulary related with the hints provided.
 # 2022 4. h1 Adversarial mindset 
 
 - The text written by Hutchins et al (2011) shows that intelligence-driven security focuses on combatting advanced persistent threats by using a structured intrusion kill 
-chain model; it also shows the phases of the intrusion kill chain; throught the lockheed martin incident response case study, we can understand that even utilizing zero-day 
+chain model; it also shows the phases of the intrusion kill chain; through the lockheed martin incident response case study, we can understand that even utilizing zero-day 
 exploits can help identifying and mitigating attacks; highlights the importance of detecting and analysing early potential instrusions; it shows the significance of campaign 
 analysis in order to track recurring patterns; it refers to a strategic defensive methodology that understands tactics and intentions of adversaries. 
 
