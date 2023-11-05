@@ -45,7 +45,7 @@ Theat modeling:
   Authentication system - Implementation of strong password policies by utilizing an effective authentication protocol. 
   Network infrastructure - Analysis of risks related to network vulnerabilities.
 
-![Image Description](Hello/Diagram analysis.png)
+![Alt text](Hello/Diagram analysis.png)
 
 
 
