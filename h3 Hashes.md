@@ -14,9 +14,11 @@ to enhance security.
 
 # a) Billion dollar busywork
 
+<img width="319" alt="0 hash" src="https://github.com/Student20231/Hello/assets/149126670/b39a8d99-502a-4bd3-9ed1-7e0440dffa48">
 
 
 
+# b) Compare hash
 
 ## References
 Karvinen, 2022. Cracking Passwords with Hashcat. URL: https://terokarvinen.com/2022/cracking-passwords-with-hashcat/
