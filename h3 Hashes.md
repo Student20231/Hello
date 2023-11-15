@@ -14,11 +14,19 @@ to enhance security.
 
 # a) Billion dollar busywork
 
+As shown below in the picture, I was able to create a hash that starts with 0 by writing 'echo -n 'DebianPedroFonte 80'|sha256sum'. It was a trial by error. 
+
 <img width="319" alt="0 hash" src="https://github.com/Student20231/Hello/assets/149126670/b39a8d99-502a-4bd3-9ed1-7e0440dffa48">
 
-
-
 # b) Compare hash
+
+First, I created the text file called tero.txt and inside it was written "Small text file" and I used the `cat` command to see this same content. Then, I calculated the initial hash by writing sha256sum tero.txt. With the command nano tero.txt, I opened a text editor and changed the word "Small" to "small". This slight change has influenced completely the hash. The new hash was calculated by inserting again the command sha256sum tero.txt. 
+
+<img width="367" alt="Screenshot 2023-11-15 235853" src="https://github.com/Student20231/Hello/assets/149126670/0898a3ee-84b8-4d80-848b-4988714cb7eb">
+
+
+
+
 
 ## References
 Karvinen, 2022. Cracking Passwords with Hashcat. URL: https://terokarvinen.com/2022/cracking-passwords-with-hashcat/
