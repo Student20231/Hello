@@ -24,15 +24,42 @@ First, I created the text file called tero.txt and inside it was written "Small 
 
 <img width="367" alt="Screenshot 2023-11-15 235853" src="https://github.com/Student20231/Hello/assets/149126670/0898a3ee-84b8-4d80-848b-4988714cb7eb">
 
+- After I tried two commands suggested by Kochikawa (2022) that updates and upgrades the package lists so after I could install the hashcat using sudo apt-get -y install hashcat (Installati.one, 2023).  
 
+<img width="367" alt="Screenshot 2023-11-16 093208" src="https://github.com/Student20231/Hello/assets/149126670/094cdeb3-ec80-453f-b2f9-83a9cf91af3f">
 
+# c) Cracking the hash 21232f297a57a5a743894a0e4a801fc3
+
+I tried using the hint suggested by Shivanandhan but unfortunately I wasn`t able to crack it. 
+
+<img width="362" alt="new" src="https://github.com/Student20231/Hello/assets/149126670/d2032243-8f12-4335-bad0-daadb2973a0e">
+
+# d) Crack this Windows NTLM hash: f2477a144dff4f216ab81f2ac3e3207d
+
+Following the example from PWNDEFEND (2023), I attempted to crack the hash but once again unsuccessfully. 
+
+<img width="363" alt="new2" src="https://github.com/Student20231/Hello/assets/149126670/48110214-a48b-466c-8737-5a1519000a33">
+
+# e) Try cracking this hash and comment on the hash rate
+
+<img width="373" alt="New 3" src="https://github.com/Student20231/Hello/assets/149126670/e99e4ddd-4819-4239-bc88-ec1787e825fc">
 
 
 ## References
+
+Installati.one 2023. How To Install hashcat on Debian 11. URL: https://installati.one/install-hashcat-debian-11/
+
 Karvinen, 2022. Cracking Passwords with Hashcat. URL: https://terokarvinen.com/2022/cracking-passwords-with-hashcat/
 
 Karvinen, 2020. Command Line Basics Revisited. URL: https://terokarvinen.com/2020/command-line-basics-revisited/
 
+Kochikawa, K., 2022. sudo apt-get update vs upgrade – What is the Difference?
+URL:https://www.freecodecamp.org/news/sudo-apt-get-update-vs-upgrade-what-is-the-difference/#:~:text=sudo%20apt%2Dget%20update%20and,use%20the%20command%20line%20often.
+
+PWNDEFEND, 2023. Hacking. URL: https://www.pwndefend.com/2022/05/13/how-to-crack-nthash-commonly-referred-to-as-ntlm-password-hashes/
+
 Schneier, 2015: Applied Cryptography: CHAPTER 2. Protocol Building Blocks. 
 URL: https://www.oreilly.com/library/view/applied-cryptography-protocols/9781119096726/10_chap02.html#chap02-sec003
+
+Shivanandhan, M., 2022. How to Crack Hashes with Hashcat — a Practical Pentesting Guide. URL: https://www.freecodecamp.org/news/hacking-with-hashcat-a-practical-guide/
 
