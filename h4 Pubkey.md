@@ -2,8 +2,10 @@
 ### *Schneier 2015 Applied Cryptography: Chapter 2 - Protocol Building Blocks, sections*
 
 - 2.5 Communications Using Public-Key Cryptography:
-  + 
-
+  1. The public-key cryptography uses a pair of keys - a public for encryption and a private for decryption;
+  2. In this system, users establish an encryption protocol. In the example provided, Alice uses the recipient`s public key (Bob) to encrypt a message and then Bob decrypts it using their private key;
+  3. Public-key algorithms are used for encrypting and distributing session keys, which combined with faster symmetric algorithms secure communication, presenting as a practical hybrid cryptosystem approach;
+  4. In the text, there`s the reference to the 'Merkle`s Puzzles', which is a concept or method that is resistant to brute-force attacks, ensuring the security of the communication between sender and recipient (Schneier, 2015, chapter 2.5).
 
 - 2.6 Digital Signatures:
 
