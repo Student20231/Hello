@@ -13,10 +13,19 @@
 
 - Chapter 2. Cryptographic hash functions and digital signatures:
 
-##### *Karvinen 2023* 
+### *Karvinen 2023* 
 
 -  PGP - Send Encrypted and Signed Message - gpg: 
 
+# a) Pubkey today
+
+# b) Messaging
+
+# c) Other tool 
+
+# d) Eve and Mallory
+
+# f) Password Management 
 
 ## References
 
