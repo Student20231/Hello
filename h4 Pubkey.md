@@ -24,11 +24,20 @@
   2. Pseudo-random sequences aim to mimic randomness. However, they are deployed periodically, thus for cryptographic suitability they must not only pass statistical test but also be computationally unpredictable.
 
 
-
-
 ### *Rosenbaum 2019: Grokking Bitcoin*
 
 - Chapter 2. Cryptographic hash functions and digital signatures:
+  1. Rosenbaum, (2019, chapter 2) explores the importance of cryptographic hash functions demonstrating how they can ensure the integrity of files over different time points;
+  2. The integration of digital signatures into the uncomplicated cookie token system can adress the challenge of fraudulent transactions;
+  3. The hashes in Bitcoin act as unique fingerprints that are challenging to replicate, ensuring data integrity;
+  4. Functions like SHA256 in Bitcoin transform digital data into fixed-length hash values;
+  5. Properties like collision resistance, pre-image resistance, and second pre-image resistance reinforce network security;
+  6. Digital signatures tied to private keys, provide a robust approval security in Bitcoin;
+  7. Furthermore, digital signatures can enhance the reliability of a cookie token system by preventing fraudulent transactions with key pair generation, signing, and verification.
+
+
+
+
 
 ### *Karvinen 2023* 
 
