@@ -13,9 +13,9 @@
 
 - Chapter 2. Cryptographic hash functions and digital signatures:
 
-### *Karvinen*
+### *Karvinen 2023* 
 
-+  PGP - Send Encrypted and Signed Message - gpg: 
+"-"  PGP - Send Encrypted and Signed Message - gpg: 
 
 
 ## References
