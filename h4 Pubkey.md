@@ -20,7 +20,8 @@
   4. In the text, there is a reference to the trusted Key Certification Authority (KDC) in signing and validating public keys, hence mitigating risks such as key substitution during transmission (Schneier, 2015, chapter 2.7). 
 
 - 2.8 Random And Pseudo-Random-Sequence Generation:
-  1. 
+  1. According to Schneier (2015, chapter 2.8), there is a need for robust random sequences in cryptographic application to avoid exploitable patterns;
+  2. Pseudo-random sequences aim to mimic randomness. However, they are deployed periodically, thus for cryptographic suitability they must not only pass statistical test but also be computationally unpredictable.
 
 
 
