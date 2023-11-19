@@ -8,10 +8,22 @@
   4. In the text, there`s the reference to the 'Merkle`s Puzzles', which is a concept or method that is resistant to brute-force attacks, ensuring the security of the communication between sender and recipient (Schneier, 2015, chapter 2.5).
 
 - 2.6 Digital Signatures:
+  1. Schneier (2015, chapter 2.6), refers to the characteristics of handwritten signatures, stating that they are seen as  genuine and convincing, thus proving that the signer intentionally authenticated the document;
+  2. Moreover, they resist reuse and relocation, remaining unaltered after signing and so preventing denial of commitment by the signer;
+  3. When a certain file is copied or modified, there are potential inefficiencies and security concerns and the solutions to address those challenges are the use of a protocol involving a trusted arbitrator (Trent) and symmetric cryptosystems;
+  4. Timestamps and one-way hash functions are techniques that are used to implement efficiency and reduced storage requirements. 
 
 - 2.7 Digital Signatures With Encryption:
+  1. Security and authenticity are enhanced when there is a combination of digital signatures with public-key cryptography;
+  2. As an example, Alice first signed a message with her provate key and then encrypted it using Bob`s public key, demonstrating a sequence of signing and encrypting;
+  3. In order to prevent resend attacks, the protocol suggests to employ distinct operations for encryption and signatures, unique keys, or timestamps to ensure the integrity of messages;
+  4. In the text, there is a reference to the trusted Key Certification Authority (KDC) in signing and validating public keys, hence mitigating risks such as key substitution during transmission (Schneier, 2015, chapter 2.7). 
 
 - 2.8 Random And Pseudo-Random-Sequence Generation:
+  1. 
+
+
+
 
 ### *Rosenbaum 2019: Grokking Bitcoin*
 
