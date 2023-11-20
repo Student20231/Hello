@@ -52,11 +52,13 @@ After finding the article "Basics of cryptography: The practical application and
 
 1. The system name is called Whatsapp.
 2. The key usage is public key encryption (Asymmetric cryptography) in which the sender uses the public key of the recipient to encrypt the message, and the recipient uses their private key to decrypt the message.
-3. 
-
-
+3. The implementation steps comprise the installation of the tool on a user`s smartphone in which the public keys of the clients are registered with the Whatsapp server; Public are then retrieved from the servers whenever there is the need for communication; after, an encypted session is created between two clients participating in a conversation; finally, if the sender wants to send a message to the recipient, then public keys of the recipient are retrieved from the server. Next, the sender encrypts the message with the recipient`s public key and sends it. The recipient can now decrypt the message with their private key;
+4.  The tool employs end-to-end encryption, ensuring that only a certain recipient can read the message.
 
 # b) Messaging
+
+
+
 
 # c) Other tool 
 
