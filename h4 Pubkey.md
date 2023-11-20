@@ -36,12 +36,14 @@
   7. Furthermore, digital signatures can enhance the reliability of a cookie token system by preventing fraudulent transactions with key pair generation, signing, and verification.
 
 
-
-
-
 ### *Karvinen 2023* 
 
--  PGP - Send Encrypted and Signed Message - gpg: 
+-  PGP - Send Encrypted and Signed Message - gpg:
+  1. PGP is a robust encryption standard that secures messages by encrypting and signing them;
+  2. In the example shown in the text, Alice sends an encrypted message to Tero;
+  3. The text explains GPG as an encryption tool and assists on its installation;
+  4. Also, there is the explanation on how we can generate keys;
+  5. It shows how a message can be decrypted and verified using a private key and Alice`s public key (Karvinen, 2023).  
 
 # a) Pubkey today
 
