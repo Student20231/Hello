@@ -48,6 +48,14 @@
 
 # a) Pubkey today
 
+After finding the article "Basics of cryptography: The practical application and use of cryptography" written by Manikandan, J., (2018), in regards to the use of cryptography in Whatsapp, I thought it was interesting to examine the document since I use the tool on a daily basis. 
+
+1. The system name is called Whatsapp.
+2. The key usage is public key encryption (Asymmetric cryptography) in which the sender uses the public key of the recipient to encrypt the message, and the recipient uses their private key to decrypt the message.
+3. 
+
+
+
 # b) Messaging
 
 # c) Other tool 
@@ -59,8 +67,13 @@
 ## References
 Karvinen, 2023. PGP - Send Encrypted and Signed Message - gpg. URL:https://terokarvinen.com/2023/pgp-encrypt-sign-verify/
 
+Manikandan, J., 2018. Basics of cryptography: The practical application and use of cryptography. 
+URL: https://resources.infosecinstitute.com/topics/cryptography/basics-of-cryptography-the-practical-application-and-use-of-cryptography/
+
 Rosenbaum, 2019: Grokking Bitcoin. Chapter 2. Cryptographic hash functions and digital signatures. URL: https://www.oreilly.com/library/view/grokking-bitcoin/9781617294648/OEBPS/Text/kindle_split_011.html#ch02lev1sec1
 
 Schneier, 2015: Applied Cryptography: CHAPTER 2. Protocol Building Blocks. URL: https://www.oreilly.com/library/view/applied-cryptography-protocols/9781119096726/10_chap02.html#chap02-sec003 
+
+
 
 
