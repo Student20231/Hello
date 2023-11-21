@@ -1,3 +1,5 @@
+Due to the requirements of the homework found in Karvinen (2023), this is what I could have executed: 
+
 # 1.  Helsec presentation
 
 I have selected the Helsec video presented by Laura Kantaala (Helsec, 20 March 2023) because I need to understand from a very basic point what is cybersecurity. 
