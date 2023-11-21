@@ -85,11 +85,14 @@ The security of this tool doesn`t seem so sophisticated as in the gpg exercise. 
 
 # g) Refer to the sources
 
+Done.
 
 ## References
 Avishek, 2023. 7 Tools to Encrypt/Decrypt and Password Protect Files in Linux. Tecmint. URL:https://www.tecmint.com/linux-password-protect-files-with-encryption/
 
 Karvinen, 2023. PGP - Send Encrypted and Signed Message - gpg. URL:https://terokarvinen.com/2023/pgp-encrypt-sign-verify/
+
+Karvinen, 2023,b. Trust to Blockchain 2023 autumn. URL: https://terokarvinen.com/2023/trust-to-blockchain/
 
 Manikandan, J., 2018. Basics of cryptography: The practical application and use of cryptography. 
 URL: https://resources.infosecinstitute.com/topics/cryptography/basics-of-cryptography-the-practical-application-and-use-of-cryptography/
