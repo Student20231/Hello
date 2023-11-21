@@ -1,3 +1,5 @@
+Due to the requirements of the homework found in Karvinen (2023,b), this is what I could have executed: 
+
 # x) 
 
 - The text written by Hutchins et al (2011) shows that intelligence-driven security focuses on combatting advanced persistent threats by using a structured intrusion kill 
@@ -94,7 +96,7 @@ URL: https://lockheedmartin.com/content/dam/lockheed-martin/rms/documents/cyber/
 
 Karvinen 2023. Install Debian on Virtualbox - Updated 2023. URL: https://terokarvinen.com/2021/install-debian-on-virtualbox/
 
-Karvinen, 2023. Trust to Blockchain 2023 autumn. URL: https://terokarvinen.com/2023/trust-to-blockchain/
+Karvinen, 2023,b. Trust to Blockchain 2023 autumn. URL: https://terokarvinen.com/2023/trust-to-blockchain/
 
 Shostack 2014. Chapter 1 Dive In and Threat Model!URL: https://learning.oreilly.com/library/view/threat-modeling-designing/9781118810057/9781118810057c01.xhtml#c01_level1_1
 
