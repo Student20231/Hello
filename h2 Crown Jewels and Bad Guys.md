@@ -94,6 +94,8 @@ URL: https://lockheedmartin.com/content/dam/lockheed-martin/rms/documents/cyber/
 
 Karvinen 2023. Install Debian on Virtualbox - Updated 2023. URL: https://terokarvinen.com/2021/install-debian-on-virtualbox/
 
+Karvinen, 2023,b. URL: https://terokarvinen.com/2023/trust-to-blockchain/
+
 Shostack 2014. Chapter 1 Dive In and Threat Model!URL: https://learning.oreilly.com/library/view/threat-modeling-designing/9781118810057/9781118810057c01.xhtml#c01_level1_1
 
 
