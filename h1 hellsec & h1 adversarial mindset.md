@@ -68,6 +68,6 @@ Helsec, 20 March 2023. Laura Kankaala - POV you're just a normal person trying t
 Hutchins et al 2011: Intelligence-Driven Computer Network Defense Informed by Analysis of Adversary Campaigns and Intrusion Kill Chains. URL: 
 https://lockheedmartin.com/content/dam/lockheed-martin/rms/documents/cyber/LM-White-Paper-Intel-Driven-Defense.pdf
 
-Karvinen, 2023. URL: https://terokarvinen.com/2023/trust-to-blockchain/
+Karvinen, 2023. Trust to Blockchain 2023 autumn. URL: https://terokarvinen.com/2023/trust-to-blockchain/
 
 Mitre 2023. Enterprise Matrix. URL: https://attack.mitre.org/matrices/enterprise/
