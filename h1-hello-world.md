@@ -6,4 +6,4 @@ a) My first task was
 
 Karvinen, 2023. URL: https://terokarvinen.com/2023/create-a-web-page-using-github/
 
-Karvinen, 2023,b. URL: https://terokarvinen.com/2023/trust-to-blockchain/
+Karvinen, 2023,b. Trust to Blockchain 2023 autumn. URL: https://terokarvinen.com/2023/trust-to-blockchain/
