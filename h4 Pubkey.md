@@ -69,10 +69,15 @@ However, I couldn`t continue after this. I`m not sure why. It only showed a mess
 
 # c) Other tool 
 
+For this exercise, I used the tool "ccrypt" in order to encrypt and decrypt a file in Debian. This tool, which uses Rijndael cypher (Avishek, 2023), has two main commands: 'ccencrypt' and 'ccdecrypt'. Before proceeding to the exercise, I created manually a file in my desktop and inserted it inside a folder in the desktop. Then, I installed ccrypt, encrypted the intended file which involved the creation of password, and proceeded to its decryption. 
 
-
+<img width="369" alt="ccrypt1" src="https://github.com/Student20231/Hello/assets/149126670/ca61410b-81ac-4830-b73c-ef1fdf13d106">
+<img width="367" alt="ccrypt2" src="https://github.com/Student20231/Hello/assets/149126670/7726f50d-f8f9-4637-bc05-52e1037a1fd7">
 
 # d) Eve and Mallory
+
+
+
 
 # f) Password Management 
 
