@@ -57,6 +57,15 @@ After finding the article "Basics of cryptography: The practical application and
 
 # b) Messaging
 
+After reading the article "PGP - Send Encrypted and Signed Message - gpg" (Karvinen, 2023), I was able to use the following commands: 
+
+<img width="370" alt="Messaging1" src="https://github.com/Student20231/Hello/assets/149126670/b5412888-1437-41ad-9d21-8a174b01cb61">
+<img width="369" alt="Messaging2" src="https://github.com/Student20231/Hello/assets/149126670/f1e56354-31a2-4b4b-b2c2-1b1c0c112542">
+<img width="368" alt="Messaging 3" src="https://github.com/Student20231/Hello/assets/149126670/d1be63a0-9569-4292-a890-87d667cc8e5c">
+<img width="366" alt="Messaging 4" src="https://github.com/Student20231/Hello/assets/149126670/6ea7b503-99d1-4b5e-8b91-b8c60a28ed48">
+<img width="364" alt="Messaging 5" src="https://github.com/Student20231/Hello/assets/149126670/e47ce1af-d7d3-4503-b148-a6b8e9011ad3">
+
+However, I couldn`t continue after this. I`m not sure why. It only showed a message saying that there was file or directory with that name. 
 
 
 
