@@ -1,3 +1,5 @@
+Due to the requirements of the homework found in Karvinen (2023,b), this is what I could have executed: 
+
 # h1 - Hello world
 
 a) My first task was 
