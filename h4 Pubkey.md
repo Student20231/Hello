@@ -74,6 +74,8 @@ For this exercise, I used the tool "ccrypt" in order to encrypt and decrypt a fi
 <img width="369" alt="ccrypt1" src="https://github.com/Student20231/Hello/assets/149126670/ca61410b-81ac-4830-b73c-ef1fdf13d106">
 <img width="367" alt="ccrypt2" src="https://github.com/Student20231/Hello/assets/149126670/7726f50d-f8f9-4637-bc05-52e1037a1fd7">
 
+The security of this tool doesn`t seem so sophisticated as in the gpg exercise. It reminds me of a zip file which basically contains a password protecting the file content. 
+
 # d) Eve and Mallory
 
 
