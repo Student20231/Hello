@@ -1,3 +1,5 @@
+Due to the requirements of the homework found in Karvinen (2023), this is what I could have executed: 
+
 # X)
 
 - The chapter 2, authored by Schneier (2015), defines protocols as agreements between two or more parties. The cryptographic protocols, in particular, is to prevent cheating
