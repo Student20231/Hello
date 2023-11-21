@@ -1,4 +1,4 @@
-Due to the requirements of the homework found in Karvinen, 2023,b., this is what I could have executed: 
+Due to the requirements of the homework found in Karvinen, 2023,b., this is what I could have executed the following: 
 
 # X) Summaries
 ### *Schneier 2015 Applied Cryptography: Chapter 2 - Protocol Building Blocks, sections*
