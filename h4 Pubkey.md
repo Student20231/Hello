@@ -83,6 +83,9 @@ The security of this tool doesn`t seem so sophisticated as in the gpg exercise. 
 
 # f) Password Management 
 
+# g) Refer to the sources
+
+
 ## References
 Avishek, 2023. 7 Tools to Encrypt/Decrypt and Password Protect Files in Linux. Tecmint. URL:https://www.tecmint.com/linux-password-protect-files-with-encryption/
 
