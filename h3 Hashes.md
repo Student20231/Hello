@@ -49,6 +49,8 @@ Following the example from PWNDEFEND (2023), I attempted to crack the hash but o
 
 Installati.one 2023. How To Install hashcat on Debian 11. URL: https://installati.one/install-hashcat-debian-11/
 
+Karvinen, 2023. Trust to Blockchain 2023 autumn. URL: https://terokarvinen.com/2023/trust-to-blockchain/
+
 Karvinen, 2022. Cracking Passwords with Hashcat. URL: https://terokarvinen.com/2022/cracking-passwords-with-hashcat/
 
 Karvinen, 2020. Command Line Basics Revisited. URL: https://terokarvinen.com/2020/command-line-basics-revisited/
