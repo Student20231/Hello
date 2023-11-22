@@ -94,6 +94,8 @@ I followed the guidance offered by Kenlon, S. (2022) to conduct a password manag
 
 <img width="410" alt="Pass manager 4" src="https://github.com/Student20231/Hello/assets/149126670/82c46ad2-1cb6-4db6-9d0c-c0aa09cbfb96">
 
+After doing the exercise, it occurs to me that the commands and mechanisms used in the pass manager contribute to a more safer use of passwords accross multiple accounts. 
+
 
 # g) Refer to the sources
 
