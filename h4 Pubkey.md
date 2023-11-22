@@ -80,8 +80,7 @@ The security of this tool doesn`t seem so sophisticated as the gpg. It reminds m
 
 # d) Eve and Mallory
 
-
-
+PGP defends against passive eavesdropping (Eve) and message tampering (Mallory) by encrypting message content and employing hash algorithms like SHA-1 for integrity verification. It also uses digital signatures to authenticate senders, stopping Mallory`s attempts at covert message change. Therefore, senders sign messages with their private keys, and recipients can use the sender`s public key to verify signatures (Callas, Donnerhacke, Finney, Shaw, Thayer,2007). It is important also to note that PGP leverages a secure Web Key Directory service for locating OpenPGP keys over HTTPS, ensuring the authenticity and integrity of public leys for encryption and signature verification (Koch,2023). In regards to the command flags, '--encrypt' encrypts messages as shown before and '--sign' adds a digital signature (Callas et al.). 
 
 # f) Password Management 
 https://www.howtogeek.com/devops/how-to-use-pass-a-command-line-password-manager-for-linux-systems/
@@ -95,9 +94,13 @@ Done.
 ## References
 Avishek, 2023. 7 Tools to Encrypt/Decrypt and Password Protect Files in Linux. Tecmint. URL:https://www.tecmint.com/linux-password-protect-files-with-encryption/
 
+Callas, Donnerhacke, Finney, Shaw, Thayer,2007. URL: https://www.rfc-editor.org/rfc/rfc4880.html
+
 Karvinen, 2023. PGP - Send Encrypted and Signed Message - gpg. URL:https://terokarvinen.com/2023/pgp-encrypt-sign-verify/
 
 Karvinen, 2023,b. Trust to Blockchain 2023 autumn. URL: https://terokarvinen.com/2023/trust-to-blockchain/
+
+Koch,2023. OpenPGP Web Key Directory. URL: https://www.ietf.org/id/draft-koch-openpgp-webkey-service-16.html
 
 Manikandan, J., 2018. Basics of cryptography: The practical application and use of cryptography. 
 URL: https://resources.infosecinstitute.com/topics/cryptography/basics-of-cryptography-the-practical-application-and-use-of-cryptography/
@@ -105,6 +108,7 @@ URL: https://resources.infosecinstitute.com/topics/cryptography/basics-of-crypto
 Rosenbaum, 2019: Grokking Bitcoin. Chapter 2. Cryptographic hash functions and digital signatures. URL: https://www.oreilly.com/library/view/grokking-bitcoin/9781617294648/OEBPS/Text/kindle_split_011.html#ch02lev1sec1
 
 Schneier, 2015: Applied Cryptography: CHAPTER 2. Protocol Building Blocks. URL: https://www.oreilly.com/library/view/applied-cryptography-protocols/9781119096726/10_chap02.html#chap02-sec003 
+
 
 
 
