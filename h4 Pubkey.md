@@ -83,8 +83,16 @@ The security of this tool doesn`t seem so sophisticated as the gpg. It reminds m
 PGP defends against passive eavesdropping (Eve) and message tampering (Mallory) by encrypting message content and employing hash algorithms like SHA-1 for integrity verification. It also uses digital signatures to authenticate senders, stopping Mallory`s attempts at covert message change. Therefore, senders sign messages with their private keys, and recipients can use the sender`s public key to verify signatures (Callas, Donnerhacke, Finney, Shaw, Thayer,2007). It is important also to note that PGP leverages a secure Web Key Directory service for locating OpenPGP keys over HTTPS, ensuring the authenticity and integrity of public leys for encryption and signature verification (Koch,2023). In regards to the command flags, '--encrypt' encrypts messages as shown before and '--sign' adds a digital signature (Callas et al.). 
 
 # f) Password Management 
-https://www.howtogeek.com/devops/how-to-use-pass-a-command-line-password-manager-for-linux-systems/
 
+I followed the guidance offered by Kenlon, S. (2022) to conduct a password management using Debian. The result of the commands were the following:
+
+<img width="409" alt="Pass manager 1" src="https://github.com/Student20231/Hello/assets/149126670/597aff3f-58bc-4052-974a-1f55a2c17f5b">
+
+<img width="410" alt="Pass manager 2" src="https://github.com/Student20231/Hello/assets/149126670/b170a49c-0eff-4cbf-a72f-8b0e09155c34">
+
+<img width="407" alt="Pass manager 3" src="https://github.com/Student20231/Hello/assets/149126670/3fbdbd68-8d21-4d6a-a6e2-40d23544eaa2">
+
+<img width="410" alt="Pass manager 4" src="https://github.com/Student20231/Hello/assets/149126670/82c46ad2-1cb6-4db6-9d0c-c0aa09cbfb96">
 
 
 # g) Refer to the sources
@@ -99,6 +107,8 @@ Callas, Donnerhacke, Finney, Shaw, Thayer,2007. URL: https://www.rfc-editor.org/
 Karvinen, 2023. PGP - Send Encrypted and Signed Message - gpg. URL:https://terokarvinen.com/2023/pgp-encrypt-sign-verify/
 
 Karvinen, 2023,b. Trust to Blockchain 2023 autumn. URL: https://terokarvinen.com/2023/trust-to-blockchain/
+
+Kenlon, S., 2022. Manage your passwords in the Linux terminal. Opensource.com. URL: https://opensource.com/article/22/1/manage-passwords-linux-terminal#:~:text=Add%20a%20password%20to%20your,want%20to%20add%20when%20prompted.
 
 Koch,2023. OpenPGP Web Key Directory. URL: https://www.ietf.org/id/draft-koch-openpgp-webkey-service-16.html
 
