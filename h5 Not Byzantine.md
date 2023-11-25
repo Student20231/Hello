@@ -3,8 +3,7 @@ Due to the requirements of the homework found in Karvinen (2023), this is what I
 # X) Summaries
 ### *Nakamoto 2008: Bitcoin: A Peer-to-Peer Electronic Cash System*
 
-
-1. FUJHFUB
+1. Nakamoto (2008), discussed how online payments work, which is quite dependable on middlemen and for that, he suggested a computational transaction that is more secure and prevents reversals, making it more difficult to hack. 
 2. jbsvkbkv
 3. lvknrlvbre
 4. lknvewlr
