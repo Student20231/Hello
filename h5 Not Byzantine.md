@@ -1,34 +1,31 @@
-Due to the requirements of the homework found in Karvinen (2023,b), this is what I could have executed: 
+Due to the requirements of the homework found in Karvinen (2023), this is what I could have executed: 
 
 # X) Summaries
-### *Schneier 2015 Applied Cryptography: Chapter 2 - Protocol Building Blocks, sections*
+### *Nakamoto 2008: Bitcoin: A Peer-to-Peer Electronic Cash System*
+1. FUJHFUB
+2. jbsvkbkv
+3. lvknrlvbre
+4. lknvewlr
+5. lkenrvlbn
+6. nlbvlbgv
 
 
-### *Rosenbaum 2019: Grokking Bitcoin*
-
-
-### *Karvinen 2023* 
-
- 
-
-# a) Pubkey today
-
-
-
-# b) Messaging
+# a) Wallet. Creation of a BitCoin testnet wallet.
 
 
 
-# c) Other tool 
+# b) Faucet. Getting worthless fake money from a testnet Bitcoin faucet.
 
 
 
-# d) Eve and Mallory
+# c) Giveway. Moving money to another Bitcoin wallet. Choosing an amount where the last two digits are 42.
 
 
-# e) Password Management 
+
+# d)  Explorer. Using a block explorer to analyze a block on the real Bitcoin blockchain.
 
 
 
 ## References
 
+Karvinen, 2023. Trust to Blockchain 2023 autumn. URL: https://terokarvinen.com/2023/trust-to-blockchain/
