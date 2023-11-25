@@ -2,6 +2,8 @@ Due to the requirements of the homework found in Karvinen (2023), this is what I
 
 # X) Summaries
 ### *Nakamoto 2008: Bitcoin: A Peer-to-Peer Electronic Cash System*
+
+
 1. FUJHFUB
 2. jbsvkbkv
 3. lvknrlvbre
@@ -29,3 +31,5 @@ Due to the requirements of the homework found in Karvinen (2023), this is what I
 ## References
 
 Karvinen, 2023. Trust to Blockchain 2023 autumn. URL: https://terokarvinen.com/2023/trust-to-blockchain/
+
+Nakamoto, 2008. Bitcoin: A Peer-to-Peer Electronic Cash System. URL: https://bitcoin.org/bitcoin.pdf
