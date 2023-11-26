@@ -14,6 +14,7 @@ Due to the requirements of the homework found in Karvinen (2023), this is what I
 # a) Wallet. Creation of a BitCoin testnet wallet.
 
 For the creation of the Bitcoin testnet wallet I followed the tips provided by Karvinen (2023). The procedure in the Debian terminal was the following: 
+
 <img width="370" alt="Testnet 1" src="https://github.com/Student20231/Hello/assets/149126670/7b0f259b-3b77-4ce2-922f-8a696b2f753b">
 <img width="368" alt="Testnet 2" src="https://github.com/Student20231/Hello/assets/149126670/1d2c5169-ab3d-4f28-82dd-74b873d92c17">
 <img width="422" alt="Testnet wallet" src="https://github.com/Student20231/Hello/assets/149126670/80b71f17-84bf-486c-ad4d-62e340c44b26">
