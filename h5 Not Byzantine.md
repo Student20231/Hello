@@ -21,7 +21,25 @@ For the creation of the Bitcoin testnet wallet I followed the tips provided by K
 
 # b) Faucet. Getting worthless fake money from a testnet Bitcoin faucet.
 
+At first, I tried some faucets by accessing them from my main computer. However, after consulting the 'history' tab in my electrum wallet and noticing that no transfer had ocurred, I tried to access those faucets from the Debian VM. I deleted all the addresses requested from the 'Receive' tab and created a new one as shown below: 
 
+<img width="960" alt="Creation of address" src="https://github.com/Student20231/Hello/assets/149126670/ba0a101f-f4f5-4025-9408-77a0dd97e20f">
+
+Then, I copied the adress and inserted in the first faucet: 
+
+<img width="671" alt="Attempt 1" src="https://github.com/Student20231/Hello/assets/149126670/67044f79-9ec9-451a-9650-26b74965687c">
+
+Since I didn`t notice any change in my wallet I proceeded to attempt 2:
+
+<img width="510" alt="Attempt 2" src="https://github.com/Student20231/Hello/assets/149126670/cdf168a0-8693-4bb8-b630-c89c32d28bcc">
+
+In here, the author referred that the transaction would be manual and it could take days to do it. 
+
+Therefore, I went for attempt 3: 
+
+<img width="574" alt="Attempt 3" src="https://github.com/Student20231/Hello/assets/149126670/4f406eb0-a399-4b73-9775-ebd69d3a8afc">
+
+I wonder if the faucet cannot read this address, thus being necessary another kind of address request from the electrum wallet. 
 
 # c) Giveway. Moving money to another Bitcoin wallet. Choosing an amount where the last two digits are 42.
 
