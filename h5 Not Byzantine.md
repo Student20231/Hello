@@ -25,17 +25,17 @@ At first, I tried some faucets by accessing them from my main computer. However,
 
 <img width="960" alt="Creation of address" src="https://github.com/Student20231/Hello/assets/149126670/ba0a101f-f4f5-4025-9408-77a0dd97e20f">
 
-Then, I copied the adress and inserted in the first faucet: 
+Then, I copied the adress and inserted in the first faucet (Bitcoin testnet faucet, 2023): 
 
 <img width="671" alt="Attempt 1" src="https://github.com/Student20231/Hello/assets/149126670/67044f79-9ec9-451a-9650-26b74965687c">
 
-Since I didn`t notice any change in my wallet I proceeded to attempt 2:
+Since I didn`t notice any change in my wallet I proceeded to attempt 2 (Kuttler, 2023):
 
 <img width="510" alt="Attempt 2" src="https://github.com/Student20231/Hello/assets/149126670/cdf168a0-8693-4bb8-b630-c89c32d28bcc">
 
 In here, the author referred that the transaction would be manual and it could take days to do, which for me it is a bit suspicious. 
 
-Therefore, I went for attempt 3: 
+Therefore, I went for attempt 3 (Coinfaucet, 2023): 
 
 <img width="574" alt="Attempt 3" src="https://github.com/Student20231/Hello/assets/149126670/4f406eb0-a399-4b73-9775-ebd69d3a8afc">
 
@@ -53,6 +53,7 @@ I understand that by going to the 'Send' tab in the electrum wallet, I will be a
 I`ve chosen the blockchain.com (blockchain.com , 2023), and more specifically the block 818,534 to analyse details about it in a real blockchain. Besides the initial description shown in the site "A total of 3,491.58 BTC ($131,908,970) were sent in the block with the average transaction being 0.8152 BTC ($30,797.55). ViaBTC earned a total reward of 6.25 BTC $236,119. The reward consisted of a base reward of 6.25 BTC $236,119 with an additional 0.5324 BTC ($20,113.61) reward paid as fees of the 4,283 transactions which were included in the block.", I thought it was interesting to point out the following:
 1. The difficulty to find a valid block hash is 67,957,790,298,897.88 showing an increased competition to mine the block and being recommended to join a mining pool to combine computer power (Cleartax, 2022).;
 2. In this case, there is a mining pool called "ViaBTC" that is responsible for confirming the transactions in the block. 
+
 Other details that have been supported by information retrieved from Bitcoin wiki (2019,2023), Cryptopedia (2023), Frankenfield (2022), Javatpoint (2023), and Reserve Bank of Australia (2023):
 1. Hash - Identifier for the block and initial 0s indicate a proof-of-work requirement;
 2. Capacity - 177.2% shows the block space utilization and since it is over 100%, it means that the block is congested ;
