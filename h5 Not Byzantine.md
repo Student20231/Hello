@@ -33,7 +33,7 @@ Since I didn`t notice any change in my wallet I proceeded to attempt 2:
 
 <img width="510" alt="Attempt 2" src="https://github.com/Student20231/Hello/assets/149126670/cdf168a0-8693-4bb8-b630-c89c32d28bcc">
 
-In here, the author referred that the transaction would be manual and it could take days to do it. 
+In here, the author referred that the transaction would be manual and it could take days to do, which for me it is a bit suspicious. 
 
 Therefore, I went for attempt 3: 
 
@@ -43,6 +43,9 @@ I wonder if the faucet cannot read this address, thus being necessary another ki
 
 # c) Giveway. Moving money to another Bitcoin wallet. Choosing an amount where the last two digits are 42.
 
+I understand that by going to the 'Send' tab in the electrum wallet, I will be able to transfer any given amount to a certain recipient but since I didn`t receive any, I`m able to send either. 
+
+<img width="419" alt="Sending coins" src="https://github.com/Student20231/Hello/assets/149126670/5643eb51-83ec-410f-a3fe-d8a2f8736c38">
 
 
 # d)  Explorer. Using a block explorer to analyze a block on the real Bitcoin blockchain.
@@ -51,6 +54,14 @@ I wonder if the faucet cannot read this address, thus being necessary another ki
 
 ## References
 
+Bitcoin testnet faucet, 2023. URL: https://bitcoinfaucet.uo1.net/
+
+Coinfaucet, 2023. URL:https://coinfaucet.eu/en/btc-testnet/
+
 Karvinen, 2023. Trust to Blockchain 2023 autumn. URL: https://terokarvinen.com/2023/trust-to-blockchain/
 
+Kuttler, 2023. URL: https://kuttler.eu/en/bitcoin/btc/faucet/success/
+
 Nakamoto, 2008. Bitcoin: A Peer-to-Peer Electronic Cash System. URL: https://bitcoin.org/bitcoin.pdf
+
+
