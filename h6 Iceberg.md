@@ -40,23 +40,31 @@ Finally, searched for "Tor" using the search engine DuckDuckGo:
 # b) Browsing TOR network
 1. Search engine for onion sites
 
-After finding a site that recommends 25 Best Dark Web Links in 2023 (Wright, S., 2023), I used the DuckDuckGo search engine in the Tor browser to look for the "thehiddenwiki.com". 
+After finding a site that recommends 25 Best Dark Web Links in 2023 (Wright, S., 2023), I used the DuckDuckGo search engine in the Tor browser to look for the "thehiddenwiki.com": 
 <img width="558" alt="Searching for the hidden wiki" src="https://github.com/Student20231/Hello/assets/149126670/13e5dc19-2c26-4a0f-8823-c1394d23378b">
 
 2. Marketplace
 
-In "thehiddenwiki.com", I noticed a site called "Bitpharma" which sells illegal substances such as cocaine. I didn`t want to click on anything but it seemed to me that the products could be bought using euros or bitcoin. 
+In "thehiddenwiki.com", I noticed a site called "Bitpharma" which sells illegal substances such as cocaine. I didn`t want to click on anything but it seemed to me that the products could be bought using euros or bitcoin:
 
 <img width="364" alt="Hidden wiki" src="https://github.com/Student20231/Hello/assets/149126670/b374be11-9dfe-438d-ab04-4389130048ac">
 <img width="584" alt="Bitpharma" src="https://github.com/Student20231/Hello/assets/149126670/73cc5cb1-116e-49e3-838c-c502d89fb53a">
 
-
-
-
 3. Fraud
-4. Forum
-5. A well known organization 
 
+Still from "thehiddenwiki.com", there was a site that could be used to buy fake UK passaports which fall in the category of document fraud:
+
+<img width="661" alt="UK passport" src="https://github.com/Student20231/Hello/assets/149126670/0468b701-95b6-4432-b8ca-fc5848343049">
+
+4. Forum
+
+In Flare (2023), it was presented some forum sites in the dark web that I tried to access such as "Nulled" and "Dread", but it turned out to be unsuccessful attempts. 
+
+5. A well known organization
+
+ProPublica is widely recognized as a well-known organization and has been featured in The Guardian newspaper (Jackson, J., 2016). Apparently Propublica was intended to be used by activists that otherwise wouldn`t have a way to express themselves against "repressive regimes". 
+
+<img width="577" alt="Propublica" src="https://github.com/Student20231/Hello/assets/149126670/1b4053e6-690f-416f-87af-90db5ae473c6"> (Propublica, 2023)
 
 # c) Anonymity in TOR
 
@@ -68,12 +76,24 @@ In "thehiddenwiki.com", I noticed a site called "Bitpharma" which sells illegal 
 
 ## References
 
+Bitpharma, 2023. URL: http://guzjgkpodzshso2nohspxijzk5jgoaxzqioa7vzy6qdmwpz3hq4mwfid.onion/
+
+Flare, 2023. 5 Key Dark Web Forums to Monitor in 2023. URL: https://flare.io/learn/resources/blog/dark-web-forums/
+
+Jackson, J., 2016. ProPublica launches world's first major news site for dark web. URL: https://www.theguardian.com/media/2016/jan/08/propublica-launches-worlds-first-major-news-site-for-dark-web
+
 Karvinen, 2023. Trust to Blockchain 2023 autumn. URL: https://terokarvinen.com/2023/trust-to-blockchain/
+
+Propublica, 2023. URL: https://www.propublica.org/
 
 Quintin, C., 2014. 7 Things You Should Know About Tor. URL: https://www.eff.org/deeplinks/2014/07/7-things-you-should-know-about-tor
 
 Shavers & Bair, 2016. Hiding Behind the Keyboard. URL: https://learning.oreilly.com/library/view/hiding-behind-the/9780128033524/XHTML/B9780128033401000021/B9780128033401000021.xhtml#s0010
 
+The widden wiki, 2023. URL: https://thehiddenwiki.com/
+
 TorProject, 2023. Download Tor Browser.Protect yourself against tracking, surveillance, and censorship.URL: https://www.torproject.org/download/
+
+UK passports, 2023. URL: http://3bp7szl6ehbrnitmbyxzvcm3ieu7ba2kys64oecf4g2b65mcgbafzgqd.onion/
 
 Wright, S., 2023. 25 Best Dark Web Links in 2023 (Use Dark Web Sites Safely).URL: https://www.wizcase.com/blog/safely-find-the-best-dark-web-sites/
