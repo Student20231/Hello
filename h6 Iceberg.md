@@ -1,23 +1,34 @@
 Due to the requirements of the homework found in Karvinen (2023), this is what I could have executed: 
 
 # X) Summaries
-### *Nakamoto 2008: Bitcoin: A Peer-to-Peer Electronic Cash System*
+### *Shavers & Bair 2016: Hiding Behind the Keyboard: The Tor Browser*
 
 
 
-# a) Wallet. Creation of a BitCoin testnet wallet.
+
+
+### *Quintin 2014: 7 Things You Should Know About Tor*
 
 
 
-# b) Faucet. Getting worthless fake money from a testnet Bitcoin faucet.
+
+# a) Installing TOR browser
 
 
 
-# c) Giveway. Moving money to another Bitcoin wallet. Choosing an amount where the last two digits are 42.
+# b) Browsing TOR network
+1. Search engine for onion sites
+2. Marketplace
+3. Fraud
+4. Forum
+5. A well known organization 
+
+
+# c) Anonymity in TOR
 
 
 
-# d)  Explorer. Using a block explorer to analyze a block on the real Bitcoin blockchain.
+# d) Threat models
 
 
 
