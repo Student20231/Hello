@@ -17,6 +17,16 @@ According to Quintin (2014), there are 7 things one should know about Tor:
 7. Users must utilize Tor browser bundle or tails, consistently update software and exercise caution with logins to maintain privacy vigilance. 
 
 # a) Installing TOR browser
+<img width="520" alt="1" src="https://github.com/Student20231/Hello/assets/149126670/a7fd0c9a-6b05-4fdc-997c-230041335831">
+<img width="749" alt="2" src="https://github.com/Student20231/Hello/assets/149126670/c36edf41-ed70-4d45-84ee-8ad54a32c715">
+<img width="365" alt="3" src="https://github.com/Student20231/Hello/assets/149126670/38fc91d0-e2c8-47b4-9897-15cdcd56e3e3">
+<img width="371" alt="4" src="https://github.com/Student20231/Hello/assets/149126670/07be5654-82fc-4d48-b8af-681a095444ab">
+<img width="302" alt="5" src="https://github.com/Student20231/Hello/assets/149126670/4d680e7d-903a-4e41-acfd-3ed755947ba6">
+<img width="897" alt="6 launching the browser" src="https://github.com/Student20231/Hello/assets/149126670/69a4887d-283b-45ba-9056-6dd7cf6d3731">
+<img width="569" alt="Connecting" src="https://github.com/Student20231/Hello/assets/149126670/e9466557-127e-4ed5-93b0-0fae438f8695">
+<img width="560" alt="Searching TOR" src="https://github.com/Student20231/Hello/assets/149126670/f744fa2d-4613-442d-a540-a459273a09b0">
+
+
 
 
 
