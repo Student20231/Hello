@@ -37,13 +37,22 @@ Now, inside the browser, I selected the "Connect" button:
 Finally, searched for "Tor" using the search engine DuckDuckGo:
 <img width="560" alt="Searching TOR" src="https://github.com/Student20231/Hello/assets/149126670/f744fa2d-4613-442d-a540-a459273a09b0">
 
-
-
-
-
 # b) Browsing TOR network
 1. Search engine for onion sites
+
+After finding a site that recommends 25 Best Dark Web Links in 2023 (Wright, S., 2023), I used the DuckDuckGo search engine in the Tor browser to look for the "thehiddenwiki.com". 
+<img width="558" alt="Searching for the hidden wiki" src="https://github.com/Student20231/Hello/assets/149126670/13e5dc19-2c26-4a0f-8823-c1394d23378b">
+
 2. Marketplace
+
+In "thehiddenwiki.com", I noticed a site called "Bitpharma" which sells illegal substances such as cocaine. I didn`t want to click on anything but it seemed to me that the products could be bought using euros or bitcoin. 
+
+<img width="558" alt="Searching for the hidden wiki" src="https://github.com/Student20231/Hello/assets/149126670/22ea9ccc-21eb-424f-bcdd-382738cb17d4">
+<img width="584" alt="Bitpharma" src="https://github.com/Student20231/Hello/assets/149126670/73cc5cb1-116e-49e3-838c-c502d89fb53a">
+
+
+
+
 3. Fraud
 4. Forum
 5. A well known organization 
@@ -67,3 +76,4 @@ Shavers & Bair, 2016. Hiding Behind the Keyboard. URL: https://learning.oreilly.
 
 TorProject, 2023. Download Tor Browser.Protect yourself against tracking, surveillance, and censorship.URL: https://www.torproject.org/download/
 
+Wright, S., 2023. 25 Best Dark Web Links in 2023 (Use Dark Web Sites Safely).URL: https://www.wizcase.com/blog/safely-find-the-best-dark-web-sites/
