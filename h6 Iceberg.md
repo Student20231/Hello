@@ -19,11 +19,14 @@ According to Quintin (2014), there are 7 things one should know about Tor:
 # a) Installing TOR browser
 Firstly, I searched the Tor browser from my regular browser (Chrome):
 <img width="520" alt="1" src="https://github.com/Student20231/Hello/assets/149126670/a7fd0c9a-6b05-4fdc-997c-230041335831">
+
 Navigated to the Tor Project website and located the Windows download section by scrolling down (TorProject, 2023): 
 <img width="749" alt="2" src="https://github.com/Student20231/Hello/assets/149126670/c36edf41-ed70-4d45-84ee-8ad54a32c715">
+
 After opening the Tor executable file, I followed the installation prompts and finished the Tor Browser setup:
 <img width="365" alt="3" src="https://github.com/Student20231/Hello/assets/149126670/38fc91d0-e2c8-47b4-9897-15cdcd56e3e3">
 <img width="371" alt="4" src="https://github.com/Student20231/Hello/assets/149126670/07be5654-82fc-4d48-b8af-681a095444ab">
+
 Then, I accessed the Tor browser from my windows task bar:
 <img width="302" alt="5" src="https://github.com/Student20231/Hello/assets/149126670/4d680e7d-903a-4e41-acfd-3ed755947ba6">
 
