@@ -47,7 +47,7 @@ After finding a site that recommends 25 Best Dark Web Links in 2023 (Wright, S.,
 
 In "thehiddenwiki.com", I noticed a site called "Bitpharma" which sells illegal substances such as cocaine. I didn`t want to click on anything but it seemed to me that the products could be bought using euros or bitcoin. 
 
-<img width="558" alt="Searching for the hidden wiki" src="https://github.com/Student20231/Hello/assets/149126670/22ea9ccc-21eb-424f-bcdd-382738cb17d4">
+<img width="364" alt="Hidden wiki" src="https://github.com/Student20231/Hello/assets/149126670/b374be11-9dfe-438d-ab04-4389130048ac">
 <img width="584" alt="Bitpharma" src="https://github.com/Student20231/Hello/assets/149126670/73cc5cb1-116e-49e3-838c-c502d89fb53a">
 
 
