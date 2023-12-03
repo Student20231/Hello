@@ -3,14 +3,18 @@ Due to the requirements of the homework found in Karvinen (2023), this is what I
 # X) Summaries
 ### *Shavers & Bair 2016: Hiding Behind the Keyboard: The Tor Browser*
 
-
-
-
+According to Shavers & Bair (2016, chapter 2), Tor is a browser that originates from Firefox and offer a strong IP address concealment; it employs random relays and elliptic curve cryptography, altering routes for increased anonimity and in addition it maintains sender anonimity through layered encryption. Thus, this browser allows users to use internet anonymously, avoiding the capture of true IP addresses and enabling activities such as file sharing and communication with enhanced privacy through encryption. The authors also refer that it would be necessary to use innovative investigative methods to track Tor users. It can be referred that Tor`s hidden services, using .onion domains, offer end-to-end encrypted communication, complicating tracking, especially on the Dark Web. In conclusion, the onion router works by routing internet traffic through a series of volunteer-operated servers, encrypting and randomly routing the data, providing users with anonymity by concealing their IP addresses and allowing for secure and private online activities. 
 
 ### *Quintin 2014: 7 Things You Should Know About Tor*
 
-
-
+According to Quintin (2014), there are 7 things one should know about Tor:
+1. The Tor browser still remains resilient and useful nowadays due to the cryptographic methodology. Most compromises arise from browser flaws or user errors;
+2. There is a group of users that sees Tor as a tool for illicit purposes but it also caters the service to a wide audience such as activists, military, families, and journalists;
+3. Tor has a transparent and open-source structure that refutes the claims that the browser is a military backdoor;
+4. No reported US prosecutions for running Tor relays underscore their legal acceptance. However, nuances, especially for exit relays must be considered, and involvement in criminal activities may draw law enforcement attention;
+5. Tor is easily accessible offering secure browsing;
+6. Tor`s developers actively improve network speed;
+7. Users must utilize Tor browser bundle or tails, consistently update software and exercise caution with logins to maintain privacy vigilance. 
 
 # a) Installing TOR browser
 
@@ -36,5 +40,8 @@ Due to the requirements of the homework found in Karvinen (2023), this is what I
 
 Karvinen, 2023. Trust to Blockchain 2023 autumn. URL: https://terokarvinen.com/2023/trust-to-blockchain/
 
+Quintin, C., 2014. 7 Things You Should Know About Tor. URL: https://www.eff.org/deeplinks/2014/07/7-things-you-should-know-about-tor
+
+Shavers & Bair, 2016. Hiding Behind the Keyboard. URL: https://learning.oreilly.com/library/view/hiding-behind-the/9780128033524/XHTML/B9780128033401000021/B9780128033401000021.xhtml#s0010
 
 
