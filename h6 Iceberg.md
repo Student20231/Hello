@@ -45,7 +45,7 @@ After finding a site that recommends 25 Best Dark Web Links in 2023 (Wright, S.,
 
 2. Marketplace
 
-In "thehiddenwiki.com", I noticed a site called "Bitpharma" which sells illegal substances such as cocaine. I didn`t want to click on anything but it seemed to me that the products could be bought using euros or bitcoin:
+In "thehiddenwiki.com" (The widden wiki, 2023), I noticed a site called "Bitpharma" (Bitpharma, 2023) which sells illegal substances such as cocaine. I didn`t want to click on anything but it seemed to me that the products could be bought using euros or bitcoin:
 
 <img width="364" alt="Hidden wiki" src="https://github.com/Student20231/Hello/assets/149126670/b374be11-9dfe-438d-ab04-4389130048ac">
 <img width="584" alt="Bitpharma" src="https://github.com/Student20231/Hello/assets/149126670/73cc5cb1-116e-49e3-838c-c502d89fb53a">
@@ -54,7 +54,7 @@ In "thehiddenwiki.com", I noticed a site called "Bitpharma" which sells illegal 
 
 Still from "thehiddenwiki.com", there was a site that could be used to buy fake UK passaports which fall in the category of document fraud:
 
-<img width="661" alt="UK passport" src="https://github.com/Student20231/Hello/assets/149126670/0468b701-95b6-4432-b8ca-fc5848343049">
+<img width="661" alt="UK passport" src="https://github.com/Student20231/Hello/assets/149126670/0468b701-95b6-4432-b8ca-fc5848343049"> (UK passports, 2023)
 
 4. Forum
 
