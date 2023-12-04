@@ -68,13 +68,15 @@ ProPublica is widely recognized as a well-known organization and has been featur
 
 # c) Anonymity in TOR
 
-
+The Tor network works in a stealthy mode thanks to the volunteering of many servers that use nodes to transmit information. Those nodes will "peel" the layers of the data transmitted revealing the address of the next node, which will decrypt everything until it reaches the last destination. As I read before, the chosen nodes to decrypt the data are randonmly selected by the Tor network. As explained by @autumnskerritt (2018), the nodes in Tor use public-key cryptography to encrypt and decrypt messages. Moreover, Tor employs the Diffie-Hellman key exchange algorithm to create shared secrets between users and onion routers. 
 
 # d) Threat models
 
 
 
 ## References
+
+@autumnskerritt, 2018. How does Tor *really* work? URL: https://hackernoon.com/how-does-tor-really-work-c3242844e11f
 
 Bitpharma, 2023. URL: http://guzjgkpodzshso2nohspxijzk5jgoaxzqioa7vzy6qdmwpz3hq4mwfid.onion/
 
