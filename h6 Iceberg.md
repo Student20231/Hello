@@ -70,11 +70,12 @@ ProPublica is widely recognized as a well-known organization and has been featur
 
 The Tor network works in a stealthy mode thanks to the volunteering of many servers that use nodes to transmit information. Those nodes will "peel" the layers of the data transmitted revealing the address of the next node, which will decrypt everything until it reaches the last destination. As I read before, the chosen nodes to decrypt the data are randonmly selected by the Tor network. As explained by @autumnskerritt (2018), the nodes in Tor use public-key cryptography to encrypt and decrypt messages. Moreover, Tor employs the Diffie-Hellman key exchange algorithm to create shared secrets between users and onion routers. 
 
-# d) Threat models
-
+# d) Threat model
+I found an article written by Adewopo, V., Gonen, B., Elsayed, N., Ozer, M., & ElSayed, Z. (2022) that proposes a deep learning algorithm called Long Short-Term Memory (LSTM) for detecting cyber threats. This is related to a deep web scenario, where Tor is often used for anonymizing communications in forums. In practice, this model demonstrated high accuracy (94%) and precision (90%) in identifying potential threats. 
 
 
 ## References
+Adewopo, V., Gonen, B., Elsayed, N., Ozer, M., & ElSayed, Z. (2022). Deep Learning Algorithm for Threat Detection in Hackers Forum (Deep Web). ArXiv, abs/2202.01448.
 
 @autumnskerritt, 2018. How does Tor *really* work? URL: https://hackernoon.com/how-does-tor-really-work-c3242844e11f
 
