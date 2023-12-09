@@ -12,7 +12,15 @@ Due to the requirements of the homework found from Karvinen (2023), this is what
 
 # a) Install and test an RSS feed reader
 
-According to Zapier (2023), 'feedly' is one of the best  RSS feed reader. Thus, I went to the respective site to download feedly (Feedly, 2023). 
+According to Zapier (2023), 'feedly' is one of the best  RSS feed reader. Thus, I went to the respective site to use feedly (Feedly, 2023) instead of installing it in my computer as shown below: 
+
+<img width="664" alt="Feedlysite" src="https://github.com/Student20231/Hello/assets/149126670/6801b84c-136e-46fe-9e5e-2cd83acf4118">
+
+and looked for "finance" related feeds: 
+
+<img width="644" alt="Finance search png " src="https://github.com/Student20231/Hello/assets/149126670/20fb93d8-cc2d-4d4c-a1f1-a20995172405">
+
+
 
 
 
