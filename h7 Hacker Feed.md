@@ -20,18 +20,19 @@ and looked for "finance" related feeds:
 
 <img width="644" alt="Finance search png " src="https://github.com/Student20231/Hello/assets/149126670/20fb93d8-cc2d-4d4c-a1f1-a20995172405">
 
-
-
-
-
-
 # b) Add feeds from Ycombinator Hacker News and Schneier
 
+I was able to add the Schneier feed but not the Ycombinator Hacker News as it can be seen below:
+
+<img width="218" alt="Schneier" src="https://github.com/Student20231/Hello/assets/149126670/ad234f55-8745-4b38-8f0e-c3437a3431cb">
+
+<img width="649" alt="Unreachable feed" src="https://github.com/Student20231/Hello/assets/149126670/03f5383c-5129-4431-b2fe-0cabfc27a69c">
 
 # c) Find another interesting security related feed
 
+I found the Cyber "Security – Strategy and Innovation" that refers to certain topics that I am currently following such as visual analytics and innovation in cyber security. 
 
-
+<img width="797" alt="Cyber security" src="https://github.com/Student20231/Hello/assets/149126670/c3edd8a2-2228-4771-bbbd-5d0207083998">
 
 ## References
 Feedly, 2023. Track insights across the web without having to read everything. URL: https://feedly.com/
