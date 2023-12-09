@@ -28,6 +28,8 @@ I was able to add the Schneier feed but not the Ycombinator Hacker News as it ca
 
 <img width="649" alt="Unreachable feed" src="https://github.com/Student20231/Hello/assets/149126670/03f5383c-5129-4431-b2fe-0cabfc27a69c">
 
+Going to the last tab "Google News", I could find a "Ycombinator Hacker News" but I would have to upgrade the feedly to get access to that feed.
+
 # c) Find another interesting security related feed
 
 I found the Cyber "Security – Strategy and Innovation" that refers to certain topics that I am currently following such as visual analytics and innovation in cyber security. 
